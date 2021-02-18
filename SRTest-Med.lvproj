@@ -25,6 +25,7 @@
 			<Item Name="Controller - Generate Axis Error.vi" Type="VI" URL="../SubVIs/Controller - Generate Axis Error.vi"/>
 			<Item Name="Controller - Get Axis Parameters (subVI).vi" Type="VI" URL="../SubVIs/Controller - Get Axis Parameters (subVI).vi"/>
 			<Item Name="Controller - Get Programs (subVI).vi" Type="VI" URL="../SubVIs/Controller - Get Programs (subVI).vi"/>
+			<Item Name="Laser - Data2Distance (SubVI).vim" Type="VI" URL="../SubVIs/Laser - Data2Distance (SubVI).vim"/>
 		</Item>
 		<Item Name="Supporting Files" Type="Folder">
 			<Item Name="Axis Parameters.ctl" Type="VI" URL="../Supporting Files/Axis Parameters.ctl"/>
@@ -49,7 +50,6 @@
 			<Item Name="Using3DPolyFitandEvaluation.vi" Type="VI" URL="../using3dpolyfitandevaluation.llb/Using3DPolyFitandEvaluation.vi"/>
 		</Item>
 		<Item Name="hostLibrary.lvlib" Type="Library" URL="../hostLibrary.lvlib"/>
-		<Item Name="Laser - Data2Distance (SubVI).vim" Type="VI" URL="../SubVIs/Laser - Data2Distance (SubVI).vim"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
